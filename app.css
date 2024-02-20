@@ -10,6 +10,8 @@
     width: 50%;
     background-color: #535C91;
     align-items: center;
+    border-radius: 5px;
+    padding: 1em;
 }
 #result {
     padding: 1em;
